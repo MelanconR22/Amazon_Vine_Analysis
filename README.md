@@ -14,9 +14,13 @@ To help with the following analysis, a rating total dataframe was created that w
 
 #### How many Vine reviews and non-Vine reviews were there?
 
+For this product category, there were a total of 334 vine reviews and 61,614 non-vine reviews.  The total number of reviews for this product equaled 61,948 which breaksdown to 0.54% vine reviews and 99.46% non-vine reviews.  
 
 #### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
+In total, there were 32,804 5 star reviews for the products.   From an overall standpoint, that means that 52.95% of total reviews recieved were 5 star reviews. Of the total number of 5 star reviews, 139 were vine reviews while 32,665 were non-vine reviews. 
+
 #### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
 
 ## Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
