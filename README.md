@@ -8,8 +8,15 @@ In this project, I had access to approximately 50 datasets. Each one contained r
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions:
 
-How many Vine reviews and non-Vine reviews were there?
-How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+To help with the following analysis, a rating total dataframe was created that would determine the total number of reviews, the number of 5-star reviews, and the percentage of 5-star reviews for the two types of review (paid vs unpaid).  The following dataframe image contains this information:
+
+![reviews](https://user-images.githubusercontent.com/107599510/197059791-4bd716ca-0ba1-4cbf-b082-a4a22e2fbcb6.png)
+
+#### How many Vine reviews and non-Vine reviews were there?
+
+
+#### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+
+#### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
 ## Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
